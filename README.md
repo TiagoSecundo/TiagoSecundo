@@ -3,12 +3,7 @@
 **`Desenvolvedora Back End`**
 
 Olá! Meu nome é Tiago Secundo Santos, tenho 23 anos e sou natural de Minas Gerais.
-Atualmente, curso Sistemas de Informação na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM).
-
-Tenho uma forte afinidade com tecnologia desde a infância, o que me motivou a buscar uma carreira na área.
-Tive a oportunidade de atuar em uma empresa júnior, onde desenvolvi habilidades técnicas e interpessoais em um ambiente colaborativo e desafiador.
-
-Atualmente, estou em busca de uma oportunidade na área de desenvolvimento back-end, onde possa mostrar meu trabalho, evoluir profissionalmente e contribuir com soluções de impacto.
+Atualmente, curso Sistemas de Informação na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM). Tenho uma forte afinidade com tecnologia desde a infância, o que me motivou a buscar uma carreira na área. Tive a oportunidade de atuar em uma empresa júnior, onde desenvolvi habilidades técnicas e interpessoais. Atualmente, estou em busca de uma oportunidade na área de desenvolvimento back-end, onde possa mostrar meu trabalho, evoluir profissionalmente e contribuir com soluções de impacto.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tiago-secundo-205205254/" target="_blank">
