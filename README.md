@@ -104,7 +104,7 @@ Atualmente, estou em busca de uma oportunidade como desenvolvedor back-end, onde
   alt="Linguagens mais usadas" 
   height="150" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSecundo&theme=dracula&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=6&v=1" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSecundo&theme=dracula&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=6&cache_seconds=86400" 
 />
 
 
