@@ -90,13 +90,12 @@ Atualmente, estou em busca de uma oportunidade como desenvolvedor back-end, onde
 <br/>
 
 ### 📊 Estatísticas
-
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TiagoSecundo&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=TiagoSecundo&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
 />
 
 <img 
